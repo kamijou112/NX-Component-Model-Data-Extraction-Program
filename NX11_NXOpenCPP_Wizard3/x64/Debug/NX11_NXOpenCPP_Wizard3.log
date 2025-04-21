@@ -3,10 +3,12 @@
 d:\ug11.0\ugopen\nxopen\nxexception.hxx(27): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 class“NXOpen::NXException”的基
   d:\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: 参见“std::exception”的声明
   d:\ug11.0\ugopen\nxopen\nxexception.hxx(26): note: 参见“NXOpen::NXException”的声明
-c:\users\kamijou\source\repos\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3.cpp(409): warning C4065: switch 语句包含“default”但是未包含“case”标签
-c:\users\kamijou\source\repos\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3.cpp(555): warning C4996: 'NXOpen::Features::DatumCsysBuilder::FixedSizeDatum': Deprecated in NX7.5.1.  This property is now always TRUE and calls to this property can be safely removed.
+c:\users\kamijou\source\repos\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3.cpp(457): warning C4065: switch 语句包含“default”但是未包含“case”标签
+c:\users\kamijou\source\repos\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3.cpp(646): warning C4996: 'NXOpen::Features::DatumCsysBuilder::FixedSizeDatum': Deprecated in NX7.5.1.  This property is now always TRUE and calls to this property can be safely removed.
   d:\ug11.0\ugopen\nxopen\features_datumcsysbuilder.hxx(117): note: 参见“NXOpen::Features::DatumCsysBuilder::FixedSizeDatum”的声明
-c:\users\kamijou\source\repos\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3.cpp(1578): warning C4996: 'NXOpen::GeometricUtilities::BooleanOperation::GetBooleanOperationAndBody': Deprecated in NX4.0.0.  Use GeometricUtilities::BooleanOperation::Type and GeometricUtilities::BooleanOperation::GetTargetBodies instead.
+c:\users\kamijou\source\repos\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3\nx11_nxopencpp_wizard3.cpp(1806): warning C4996: 'NXOpen::GeometricUtilities::BooleanOperation::GetBooleanOperationAndBody': Deprecated in NX4.0.0.  Use GeometricUtilities::BooleanOperation::Type and GeometricUtilities::BooleanOperation::GetTargetBodies instead.
   d:\ug11.0\ugopen\nxopen\geometricutilities_booleanoperation.hxx(77): note: 参见“NXOpen::GeometricUtilities::BooleanOperation::GetBooleanOperationAndBody”的声明
+  tinyxml2.cpp
+  正在生成代码...
     正在创建库 D:\UG11.0\NXOPEN\application\/NX11_NXOpenCPP_Wizard3.lib 和对象 D:\UG11.0\NXOPEN\application\/NX11_NXOpenCPP_Wizard3.exp
   NX11_NXOpenCPP_Wizard3.vcxproj -> D:\UG11.0\NXOPEN\application\NX11_NXOpenCPP_Wizard3.dll

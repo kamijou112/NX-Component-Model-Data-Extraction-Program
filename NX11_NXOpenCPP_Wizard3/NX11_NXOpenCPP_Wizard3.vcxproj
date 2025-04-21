@@ -159,6 +159,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="NX11_NXOpenCPP_Wizard3.cpp" />
+    <ClCompile Include="tinyxml2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\tinyxml2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
